@@ -1,6 +1,8 @@
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
+This repo is cloned from: https://github.com/pjreddie/darknet.git
+
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 Yolo v4 paper: https://arxiv.org/abs/2004.10934
